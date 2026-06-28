@@ -33,6 +33,25 @@ Our projects follow five key stages:
 
 ---
 
+## Overview of OctoAcme Project Management Processes
+
+### Initiation Process
+During initiation, we validate new project ideas and align stakeholders. This phase ensures we're solving real problems and have clear success criteria before committing resources. Key deliverables include a Project One-pager with problem statement, goals, success metrics, stakeholder list, and initial timeline.
+
+### Planning Process
+Planning transforms approved initiatives into actionable work. We break features into shippable increments, estimate scope, define acceptance criteria, identify dependencies, and create a release plan. Clear Definition of Done prevents rework and ensures team alignment.
+
+### Execution & Tracking Process
+Day-to-day execution focuses on delivering work while maintaining visibility. We use GitHub Projects to track progress through columns (Backlog → Ready → In Progress → In Review → QA → Done). Daily standups surface blockers, weekly syncs review progress, and PRs require tests and at least one approval before merging.
+
+### Release & Deployment Process
+Releases follow a structured checklist ensuring all acceptance criteria are met, CI passes, security scans complete, and smoke tests verify correctness. We prepare rollback plans, deploy to staging first, then production, and communicate changes to stakeholders.
+
+### Retrospective & Continuous Improvement Process
+After each sprint or release, we capture learnings and convert them into action items. Retrospectives discuss what went well and what to improve, with 2-3 prioritized actions assigned to owners with clear timelines.
+
+---
+
 ## Project Management Documentation
 
 Each guide below covers a specific phase or aspect of project delivery. Start with the overview if this is your first time, then navigate to the phase you're working on.
